@@ -1,8 +1,7 @@
-package com.xuecheng.content.mapper;
+package edu.hunnu.xuecheng.content.mapper;
 
-import com.xuecheng.content.model.po.TeachplanMedia;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import org.springframework.stereotype.Repository;
+import edu.hunnu.xuecheng.content.model.po.TeachplanMedia;
 
 /**
  * <p>
